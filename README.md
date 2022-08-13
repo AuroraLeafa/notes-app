@@ -1,5 +1,7 @@
 # Personal Notes App
-### My first app built using react. This app was used as my submission at Dicoding's course.
+### My first app built using react. 
+### This app was used as my submission at Dicoding's course.
+
 
 ## Getting Started with Create React App
 
