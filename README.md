@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Personal Notes App
+### My first app built using react. This app was used as my submission at Dicoding's course.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
