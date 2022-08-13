@@ -2,6 +2,7 @@
 ### My first app built using react. 
 ### This app was used as my submission at Dicoding's course.
 
+## The app is already deployed at Github Pages, (https://auroraleafa.github.io/notes-app/)[click here to see it in action]
 
 ## Getting Started with Create React App
 
