@@ -4,6 +4,8 @@
 
 ## The app is already deployed at Github Pages, [click here to see it in action](https://auroraleafa.github.io/notes-app/)
 
+-----
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
